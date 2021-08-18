@@ -6,7 +6,7 @@
   "author": "FSFitzgerald <18120614@student.hcmus.edu.vn>",
   "license": "MIT",
   "scripts": {
-    "start": "nodemon index.js"
+    "start": "node index.js"
   },
   "dependencies": {
     "express": "^4.17.1",
